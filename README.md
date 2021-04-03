@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [oval-finder](https://github.com/aycanogut/oval-finder)
+- 🔭 <h4>I’m currently working on [oval-finder](https://github.com/aycanogut/oval-finder)</h4>
 
 - 🌱 I’m currently learning **Vanilla Javascript**
 
