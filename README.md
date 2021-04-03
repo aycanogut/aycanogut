@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Vanilla Javascript**
 
+- 🏝 I'm open to work.
+
 - 👨‍💻 All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
