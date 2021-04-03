@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vanilla Javascript**
 
-- 🏝 I'm open to work.
+- 🏝 I'm currently open to work.
 
 - 👨‍💻 All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut)
 
