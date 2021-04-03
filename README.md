@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aycan</h1>
-<h3 align="center">A passionate frontI’m a junior web developer from Izmir, Turkey. I have a great passion for learning new concepts and technologies. My main purposes are improve myself with learning new skills and languages, building projects, gain experiences and my motivation is using that knowledge to solve real world problems and contribute to the community. end developer from India</h3>
+<h3 align="left">A passionate frontI’m a junior web developer from Izmir, Turkey. I have a great passion for learning new concepts and technologies. My main purposes are improve myself with learning new skills and languages, building projects, gain experiences and my motivation is using that knowledge to solve real world problems and contribute to the community. end developer from India</h3>
+
+<br>
 
 - 🔭 I’m currently working on [oval-finder](https://github.com/aycanogut/oval-finder)
 
@@ -7,9 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut)
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aycanogutt" height="30" width="40" /></a>
+<a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aycanogutt" height="30" width="40" style="color: #fff" /></a>
 <a href="https://dev.to/bleedeleventh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bleedeleventh" height="30" width="40" /></a>
 <a href="https://twitter.com/bleedeleventh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bleedeleventh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aycanogut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aycanogut" height="30" width="40" /></a>
