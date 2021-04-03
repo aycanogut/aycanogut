@@ -12,6 +12,15 @@
 - 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut))</b>
 
 
+<h3 align="left">⚡ My Dev Statistics</h3>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
 
 
 <h3 align="left">Connect with me:</h3>
