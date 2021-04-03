@@ -12,17 +12,6 @@
 - 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut))</b>
 
 
-<h3 align="left">⚡ My Dev Statistics</h3>
-
-<p>  
-<!-- GitHub Stats -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&show_icons=true&hide_border=true" />
-
-<!-- Most Used Languages -->  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</p>  
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aycanogut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aycanogut" height="30" width="40" /></a>
@@ -45,3 +34,15 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+
+
+<h3 align="left">⚡ My Dev Statistics</h3>
+
+<p>  
+<!-- GitHub Stats -->  
+<img height="80em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->  
+<img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+</p>  
+
