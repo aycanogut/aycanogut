@@ -5,11 +5,11 @@
 
 - 🔭 <b>I’m currently working on [oval-finder](https://github.com/aycanogut/oval-finder)</b>
 
-- 🌱 I’m currently learning **Vanilla Javascript**
+- 🌱 <b>I’m currently learning **Vanilla Javascript**)</b>
 
-- 🏝 I'm currently open to work.
+- 🏝 <b>I'm currently open to work.)</b>
 
-- 👨‍💻 All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut)
+- 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut))</b>
 
 
 
