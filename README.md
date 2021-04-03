@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aycan</h1>
-<h3 align="left">A passionate frontI’m a junior web developer from Izmir, Turkey. I have a great passion for learning new concepts and technologies. My main purposes are improve myself with learning new skills and languages, building projects, gain experiences and my motivation is using that knowledge to solve real world problems and contribute to the community.</h3>
+<h3 align="left">I’m a junior web developer from Izmir, Turkey. I have a great passion for learning new concepts and technologies. My main purposes are improve myself with learning new skills and languages, building projects, gain experiences and my motivation is using that knowledge to solve real world problems and contribute to the community.</h3>
 
 <br>
 
@@ -7,7 +7,11 @@
 
 - 🌱 I’m currently learning **Vanilla Javascript**
 
+- 🏝 I'm open to work.
+
 - 👨‍💻 All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
