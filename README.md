@@ -3,13 +3,13 @@
 
 <br>
 
-- 🔭 <b>I’m currently working on [oval-finder](https://github.com/aycanogut/oval-finder)</b>
+- 🔭 <b>I’m currently studying on Patika.dev Front-End Bootcamp #1</b>
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**)</b>
 
 - 🏝 <b>I'm currently open to work.)</b>
 
-- 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut))</b>
+// - 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut))</b>
 
 
 <h3 align="left">Connect with me:</h3>
