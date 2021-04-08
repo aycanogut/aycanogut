@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aycan</h1>
 <h3 align="left">I’m a junior web developer from Izmir, Turkey. I have a great passion for learning new concepts and technologies. My main purposes are improve myself with learning new skills and languages, building projects, gain experiences and my motivation is using that knowledge to solve real world problems and contribute to the community.</h3>
 <br>
+
 - 🔭 <b>I’m currently studying on Patika.dev Front-End Bootcamp #1</b>
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**)</b>
