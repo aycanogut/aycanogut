@@ -5,9 +5,9 @@
 
 - 🔭 <b>I’m currently studying at Patika.dev Front-End Bootcamp Challenge #1</b>
 
-- 🌱 <b>I’m currently learning **Vanilla Javascript**)</b>
+- 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
 
-- 🏝 <b>I'm currently open to work.)</b>
+- 🏝 <b>I'm open to work.</b>
 
 <!-- (- 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut</b>)) -->
 <br>
