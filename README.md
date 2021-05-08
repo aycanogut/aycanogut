@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 <b>I’m currently working on Oval-Finder Web Application</b>
+- 🔭 <b>I’m currently working on [oval-finder web application](https://github.com/aycanogut/oval-finder)</b>
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
 
