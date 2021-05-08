@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 <b>I’m currently training at Patika.dev Front-End Bootcamp #1</b>
+- 🔭 <b>I’m currently working on Oval-Finder Web Application</b>
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
 
