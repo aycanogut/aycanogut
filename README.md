@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aycan</h1>
 <h3 align="left">I’m a junior front-end developer based in Izmir, Turkey.
+    
 <br>  
     
 I'm in the industry for a couple of months. I have a great passion for learning new concepts and technologies.
