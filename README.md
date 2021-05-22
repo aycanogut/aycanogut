@@ -24,6 +24,7 @@ My purpose is improve myself with learning new skills and languages. I want to u
 <a href="https://dev.to/bleedeleventh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bleedeleventh" height="30" width="40" /></a>
 <a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aycanogutt" height="30" width="40" /></a>
 <a href="https://twitter.com/bleedeleventh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bleedeleventh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/aycanogut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/aycanogut" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,7 +37,9 @@ My purpose is improve myself with learning new skills and languages. I want to u
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <!--<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="git" width="40" height="40"/> </a> -->
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://medium.com/https://medium.com/@aycanogut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="https://medium.com/@aycanogut" height="30" width="40" /></a>
+</p>
 
 
 
@@ -50,3 +53,9 @@ My purpose is improve myself with learning new skills and languages. I want to u
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 </p>  
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aycanogut&show_icons=true&locale=en&layout=compact" alt="aycanogut" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aycanogut&show_icons=true&locale=en" alt="aycanogut" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&" alt="aycanogut" /></p>
