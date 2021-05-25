@@ -25,7 +25,6 @@ My purpose is improve myself with learning new skills and languages. I want to u
 <a href="https://dev.to/bleedeleventh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bleedeleventh" height="30" width="40" /></a>
 <a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aycanogutt" height="30" width="40" /></a>
 <a href="https://twitter.com/bleedeleventh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bleedeleventh" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,7 +38,11 @@ My purpose is improve myself with learning new skills and languages. I want to u
 <!--<a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="git" width="40" height="40"/> </a> -->
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
+
+<h3 align="left">Blog Posts:</h3>
+<p align="left"> <a href="https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511" target="_blank">Front-End Development Tools</a>
 </p>
 
 
