@@ -8,7 +8,7 @@ My purpose is improve myself with learning new skills and languages. I want to u
 
 <br>
 
-- 🔭 <b>I’m currently working on [knife-application.](https://github.com/aycanogut/knife-application)</b>
+- 🔭 <b>I’m currently working on [portfolio-website.](https://github.com/aycanogut/portfolio-website)</b>
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
 
