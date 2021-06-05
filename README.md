@@ -4,7 +4,7 @@
 
     
 <h3 align="left">I'm in the industry for a couple of months. I have a passion for learning new concepts and technologies.
-My purpose is improve myself with learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.</h3>
+My purpose is improve myself by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.</h3>
 
 <br>
 
