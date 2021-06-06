@@ -19,7 +19,11 @@
 
 <!-- (- 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut</b>)) -->
 <br>
+
+![](https://komarev.com/ghpvc/?username=aycanogut&color=lightgray)
 <hr>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,11 +58,11 @@
 
 <p>  
 <!-- GitHub Stats -->  
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&show_icons=true&hide_border=true" />
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=darcula&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->  
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&theme=darcula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
 
 
-<img height="120em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&" alt="aycanogut" />
+<img height="120em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />
 </p>
