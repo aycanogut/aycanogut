@@ -3,8 +3,13 @@
     
 
     
-<h3 align="left">I'm in the industry for a couple of months. I have a passion for learning new concepts and technologies.
-My purpose is improve myself by learning new skills and languages. I want to use that knowledge to solve real world problems and contribute to the community.</h3>
+<h3 align="left">II’m a junior front-end developer based in Izmir, Turkey.
+                I've been working in the industry for a few months. I have a passion for learning new concepts and
+                technologies.
+                My goal is to grow as a person by learning new skills and languages I want to use that knowledge to
+                solve
+                real
+                world problems and contribute to the community.</h3>
 
 <br>
 
