@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 <b>I’m currently working on [login-application.](https://github.com/aycanogut/knife-application)</b>
+- 🔭 <b>I’m currently working on [knife-application.](https://github.com/aycanogut/knife-application)</b>
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
 
