@@ -23,7 +23,6 @@
 <hr>
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aycanogut" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aycanogut" height="30" width="40" /></a>
@@ -46,13 +45,6 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-
-<h3 align="left">Latest Blog Posts:</h3>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1" alt="Recent article #2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0" alt="Recent article #1"></a>
-
-
-
 <h3 align="left">My Dev Statistics: </h3>
 
 <p>  
@@ -65,3 +57,9 @@
 
 <img height="120em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />
 </p>
+
+
+<h3 align="left">Latest Blog Posts:</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1" alt="Recent article #2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0" alt="Recent article #1"></a>
+
