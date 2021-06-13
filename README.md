@@ -17,7 +17,6 @@
 
 - 🏝 <b>I'm open to work.</b>
 
-<!-- (- 👨‍💻 <b>All of my projects are available at [https://github.com/aycanogut](https://github.com/aycanogut</b>)) -->
 <br>
 
 ![](https://komarev.com/ghpvc/?username=aycanogut&color=lightgray)
@@ -48,9 +47,9 @@
 </p>
 
 
-<h3 align="left">Blog Posts:</h3>
-<p align="left"> <a href="https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511" target="_blank">Front-End Development Tools</a>
-</p>
+<h3 align="left">Latest Blog Posts:</h3>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1" alt="Recent article #2"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0" alt="Recent article #1"></a>
 
 
 
