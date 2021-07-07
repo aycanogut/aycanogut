@@ -11,13 +11,13 @@
 
 <br>
 
-- 🔭 <b>I’m currently working on [golden-sweet-portfolio.](https://github.com/aycanogut/golden-sweet-portfolio)</b>
+- 🔭 <b> I’m currently working on [golden-sweet-portfolio.](https://github.com/aycanogut/golden-sweet-portfolio)</b>
 
-- 🌱 <b>I’m currently learning **Vanilla Javascript.**</b>
+- 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
  
-- 📝 <b>I regularly write articles on [my blog.](https://medium.com/@aycanogut)</b>
+- 📝 <b> I regularly write articles on [my blog.](https://medium.com/@aycanogut)</b>
 
-- ⚡ </b>I'm currently freelancing and open to work.</b>
+- ⚡ </b> I'm currently freelancing and open to work.</b>
 
 <br>
 
