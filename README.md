@@ -15,7 +15,7 @@
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
 
-- 🏝 <b>I'm open to work.</b>
+- 🏝 <b>I'm currently a freelancer and open to work.</b>
 
 <br>
 
