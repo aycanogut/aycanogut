@@ -15,7 +15,7 @@
 
 - 🌱 <b>I’m currently learning **Vanilla Javascript**</b>
  
-- 📝 <b>I regularly write articles on [https://medium.com/@aycanogut](https://medium.com/@aycanogut)</b>
+- 📝 <b>I regularly write articles on [my blog](https://medium.com/@aycanogut)</b>
 
 - ⚡ </b>I'm currently freelancing and open to work.</b>
 
