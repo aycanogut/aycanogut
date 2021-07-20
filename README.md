@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 <b> I’m currently working on [golden-sweet-portfolio.](https://github.com/aycanogut/golden-sweet-portfolio)</b>
+- 🔭 <b> I’m currently working on [fem-accordion-card-faq.](https://github.com/aycanogut/fem-accordion-card-faq)</b>
 
 - 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
  
