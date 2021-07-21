@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 <b> I’m currently working on [fem-accordion-card-faq.](https://github.com/aycanogut/fem-accordion-card-faq)</b>
+- 🔭 <b> I’m currently working on [etch-a-sketch project.](https://github.com/aycanogut/odin-project-curriculum/tree/main/etch-a-sketch)</b>
 
 - 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
  
