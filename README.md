@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 <b> I’m currently working on [etch-a-sketch project.](https://github.com/aycanogut/odin-project-curriculum/tree/main/etch-a-sketch)</b>
+- 🔭 <b> I’m currently working on [fem-interactive-pricing-component project.](https://github.com/aycanogut/fem-interactive-pricing-component)</b>
 
 - 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
  
