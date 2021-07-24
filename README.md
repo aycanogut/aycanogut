@@ -11,11 +11,11 @@
 
 <br>
 
-- 🔭 <b> I’m currently working on [fem-interactive-pricing-component project.](https://github.com/aycanogut/fem-interactive-pricing-component)</b>
+- 🔭 <b> I’m currently working on [fem-interactive-pricing-component](https://github.com/aycanogut/fem-interactive-pricing-component)  project.</b>
 
 - 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
  
-- 📝 <b> I regularly write articles on [my blog.](https://medium.com/@aycanogut)</b>
+- 📝 <b> I write articles on [my blog.](https://medium.com/@aycanogut)</b>
 
 - ⚡ <b> I'm currently freelancing and open to work.</b>
 
