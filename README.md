@@ -64,9 +64,13 @@
     
 <!-- Most Used Languages -->  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&theme=darcula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-
-
 </p>
+
+<hr />
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <h3 align="left">Latest Blog Posts:</h3>
