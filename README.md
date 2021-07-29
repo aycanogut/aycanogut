@@ -32,7 +32,7 @@
 <a href="https://www.hackerrank.com/aycanogut" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="aycanogut" height="40" width="40" /></a>
 <a href="https://www.codewars.com/users/aycanogut" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="aycanogutt" height="40" width="40" /></a>
 <a href="https://www.frontendmentor.io/profile/bleedeleventh" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" alt="aycanogutt" height="40" width="40" /></a>
-<a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://logosrated.net/wp-content/uploads/parser/Codepen-Logo-1.png" alt="aycanogutt" height="40" width="40" /></a>
+<a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="aycanogutt" height="40" width="40" /></a>
     <a href="https://dev.to/bleedeleventh" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="bleedeleventh" height="40" width="40" /></a>
 <a href="https://twitter.com/bleedeleventh" target="blank"><img align="center" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png" alt="bleedeleventh" height="30" width="35" /></a>
 </p>
