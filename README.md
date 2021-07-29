@@ -67,11 +67,11 @@
     
 <!-- Most Used Languages -->  
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&theme=darcula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+<img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut"/>  
+
 </p>
 
-<hr />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut"/>  
 
 
 
