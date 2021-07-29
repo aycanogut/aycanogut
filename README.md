@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aycanogut" target="blank"><img align="center" src="https://www.seekpng.com/png/full/8-84419_linkedin-logo-png-icon-linkedin-logo-png.png" alt="aycanogut" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/aycanogut" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png" alt="aycanogut" height="40" width="40" /></a>
 <a href="https://medium.com/@aycanogut" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png" alt="bleedeleventh" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/aycanogut" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png" alt="aycanogut" height="40" width="40" /></a>
 <a href="https://www.codewars.com/users/aycanogut" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="aycanogutt" height="40" width="40" /></a>
