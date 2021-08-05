@@ -79,7 +79,7 @@
 
 
 <h3 align="left">Latest Blog Posts:</h3>
-<!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/2" alt="Recent article #3"></a> -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/2" alt="Recent article #3"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1" alt="Recent article #2"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0" alt="Recent article #1"></a>
 
