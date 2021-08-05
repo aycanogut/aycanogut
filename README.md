@@ -80,7 +80,6 @@
 
 <h3 align="left">Latest Blog Posts:</h3>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/1" alt="Recent article #2"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/0" alt="Recent article #1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@aycanogut/2" alt="Recent article #3"></a>
-
+* #### [CSS Dosya Boyutunu Minimize Etme #1 : PurgeCSS](https://aycanogut.medium.com/css-dosya-boyutunu-minimize-etme-1-purgecss-7e3e5859a834)
+* #### [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67?source=your_stories_page-------------------------------------)
+* #### [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511?source=your_stories_page-------------------------------------)
