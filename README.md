@@ -17,7 +17,7 @@
  
 - 📝 <b> I write articles on [my blog.](https://medium.com/@aycanogut)</b>
 
-- 📒 <b> I write my daily progress on [code-diary](https://aycanogut.github.io/days-of-code/index.html)</b>
+- 📒 <b> I write my daily progress on [codimg-diary.](https://aycanogut.github.io/days-of-code/index.html)</b>
 
 - ⚡ <b> I'm currently freelancing and open to work.</b>
 
