@@ -13,7 +13,7 @@
 
 - 🔭 <b> I’m currently working on [fem-social-media-dashboard](https://github.com/aycanogut/fem-social-media-dashboard)  project.</b>
 
-- 🌱 <b> I’m currently learning **Vanilla Javascript.**</b>
+- 🌱 <b> I’m currently learning **Vanilla Javascript and React.**</b>
  
 - 📝 <b> I write articles on [my blog.](https://medium.com/@aycanogut)</b>
 
