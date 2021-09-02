@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 <b> I’m currently working on tic-tac-toe-react game project.</b>
+- 🔭 <b> I’m currently working on tic-tac-toe game project.</b>
 
 - 🌱 <b> I’m currently learning **Vanilla Javascript and React.**</b>
  
