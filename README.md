@@ -11,7 +11,7 @@
 
 <br>
 
-- 🔭 <b> I’m currently working on [fem-social-media-dashboard](https://github.com/aycanogut/fem-social-media-dashboard)  project.</b>
+- 🔭 <b> I’m currently working on [tic-tac-toe-react](https://github.com/aycanogut/tic-tac-toe-react) project.</b>
 
 - 🌱 <b> I’m currently learning **Vanilla Javascript and React.**</b>
  
