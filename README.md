@@ -65,13 +65,8 @@
 <p>  
 <!-- GitHub Stats -->  
 <img height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=darcula&show_icons=true&hide_border=true" />
-
 <img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />
     
-<!-- Most Used Languages -->  
-<img height="132em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycanogut&theme=darcula&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
-</p>
-
 
 
 
