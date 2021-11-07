@@ -2,7 +2,7 @@
 <h3 align="left">I’m a junior front-end developer based in Izmir, Turkey.</h3>
     
 <h3 align="left">
-                I've been working in the industry for the past year.
+                I've been working to improve myself in this area for the past year.
                 I have a passion for learning new concepts and technologies.
                 My motivation is to grow as a person by learning new skills
                 and languages and using what I've learned to solve problems,
