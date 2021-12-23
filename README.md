@@ -11,8 +11,6 @@ I've been working to improve myself in the software development field for the pa
  
 - 📝 <b> I write articles on [my blog.](https://medium.com/@aycanogut)</b>
 
-- ⚡ <b> I'm currently freelancing and open to work.</b>
-
 <br>
 
 ![](https://komarev.com/ghpvc/?username=aycanogut&color=lightgray)
