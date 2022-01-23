@@ -36,9 +36,7 @@ I've been working to improve myself in the software development field for the pa
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-<!-- <a href="https://purgecss.com/" target="_blank"> <img src="https://i.imgur.com/UEiUiJ0.png" alt="purgecss" width="40" height="40"/> </a>
-<!-- <a href="https://cssnano.co/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/40150215?s=200&v=4" alt="cssnano" width="40" height="40"/> </a> -->
-<!-- <a href="https://mozilla.github.io/nunjucks/" target="_blank"> <img src="https://mozilla.github.io/nunjucks/img/favicon.png" alt="nunjucks" width="40" height="40"/> </a> --> 
+<a href="https://styled-components.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="styled" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/806104/98771085-46d8f180-23a9-11eb-9caf-9d4c0f605749.png" alt="vscode" width="40" height="40"/> </a>
