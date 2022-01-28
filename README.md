@@ -26,7 +26,7 @@ I've been working to improve myself in the software development field for the pa
 <a href="https://www.codewars.com/users/aycanogut" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="aycanogutt" height="40" width="40" /></a>
 <a href="https://www.frontendmentor.io/profile/bleedeleventh" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg" alt="aycanogutt" height="40" width="40" /></a>
 <a href="https://dev.to/bleedeleventh" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="bleedeleventh" height="40" width="40" /></a>
-<a href="https://cssbattle.dev" target="blank"><img align="center" src="https://ph-files.imgix.net/a8693137-6248-4845-b414-a8e348878ed1.png?auto=format" alt="cssbattle" height="40" width="40" /></a>
+<a href="https://cssbattle.dev/player/aycanogut" target="blank"><img align="center" src="https://ph-files.imgix.net/a8693137-6248-4845-b414-a8e348878ed1.png?auto=format" alt="cssbattle" height="40" width="40" /></a>
 <a href="https://codepen.io/aycanogutt" target="blank"><img align="center" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" alt="aycanogutt" height="40" width="40" /></a>
 </p>
 
