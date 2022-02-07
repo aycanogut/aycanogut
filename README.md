@@ -55,8 +55,6 @@ I've been working to improve myself in the software development field for the pa
     
 <h3 align="left">Latest Blog Posts:</h3>
 
+* #### [Icomoon ile Icon Paketleri Oluşturma (React)](https://aycanogut.medium.com/icomoon-ile-icon-paketleri-olu%C5%9Fturma-react-882cc81d41d3)
 * #### [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
 * #### [interact.js ile ‘interaktif’ web elementleri oluşturma](https://aycanogut.medium.com/interact-js-65e7cf250685)
-* #### [CSS Dosya Boyutunu Minimize Etme #1 : PurgeCSS](https://aycanogut.medium.com/css-dosya-boyutunu-minimize-etme-1-purgecss-7e3e5859a834)
-* #### [Icomoon ile Web-Font Icon Paketleri Oluşturma](https://aycanogut.medium.com/icomoon-ile-web-font-icon-paketleri-olu%C5%9Fturma-2f6acd98dc67?source=your_stories_page-------------------------------------)
-* #### [Front-End Geliştirme Araçları](https://aycanogut.medium.com/front-end-geli%C5%9Ftirme-ara%C3%A7lar%C4%B1-ff3dc6b4511?source=your_stories_page-------------------------------------)
