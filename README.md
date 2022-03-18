@@ -23,7 +23,7 @@ I've been working to improve myself in the software development field for the pa
 <a href="https://medium.com/@aycanogut" target="blank"><img align="left" alt="Medium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"/>
 <a href="https://www.hackerrank.com/aycanogut" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
 <a href="https://www.codewars.com/users/aycanogut" target="blank"><img align="left" alt="CodeWars" width="40px" src="https://docs.codewars.com/logo.svg"/></a>
-<a href="https://www.frontendmentor.io/profile/bleedeleventh" target="blank"><img align="left" alt="FrontendMentor" width="40px" src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg"/></a>
+<a href="https://www.frontendmentor.io/profile/aycanogut" target="blank"><img align="left" alt="FrontendMentor" width="40px" src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg"/></a>
 <a href="https://dev.to/bleedeleventh" target="blank"><img align="left" alt="Dev.to" width="40px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"/></a>
 <a href="https://cssbattle.dev/player/aycanogut" target="blank"><img align="left" alt="CSSBattle" width="40px" src="https://ph-files.imgix.net/a8693137-6248-4845-b414-a8e348878ed1.png?auto=format"/></a>
 <a href="https://codepen.io/aycanogutt" target="blank"><img align="left" alt="CodePen" width="40px" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg"/></a>
