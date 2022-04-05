@@ -18,9 +18,9 @@ I've been working to improve myself in the software development field for the pa
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/aycanogut" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/01/linkedin-logo.png"/></a>
-<a href="https://twitter.com/bleedeleventh" target="blank"><img align="left" alt="Twitter" width="40px" src="https://www.createchallenge.org/images/logo-twitter.png/@@images/b588afe1-9051-46e9-b16c-09ba486fcc44.png"/></a>
+<a href="https://linkedin.com/in/aycanogut" target="blank"><img align="left" alt="LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
 <a href="https://medium.com/@aycanogut" target="blank"><img align="left" alt="Medium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"/>
+<a href="https://twitter.com/bleedeleventh" target="blank"><img align="left" alt="Twitter" width="40px" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png"/></a>
 <a href="https://www.hackerrank.com/aycanogut" target="blank"><img align="left" alt="HackerRank" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
 <a href="https://www.codewars.com/users/aycanogut" target="blank"><img align="left" alt="CodeWars" width="40px" src="https://docs.codewars.com/logo.svg"/></a>
 <a href="https://www.frontendmentor.io/profile/aycanogut" target="blank"><img align="left" alt="FrontendMentor" width="40px" src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg"/></a>
