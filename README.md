@@ -56,8 +56,9 @@ I've been working to improve myself in the software development field for the pa
     
 <h3 align="left">Latest Blog Posts:</h3>
 
+* #### [three.js ve React Three Fiber ile 3 Boyutlu Web Animasyonları](https://medium.com/p/d1c1c17f2769)
 * #### [Icomoon ile Icon Paketleri Oluşturma (React)](https://aycanogut.medium.com/icomoon-ile-icon-paketleri-olu%C5%9Fturma-react-882cc81d41d3)
 * #### [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
-* #### [interact.js ile ‘interaktif’ web elementleri oluşturma](https://aycanogut.medium.com/interact-js-65e7cf250685)
+
 
 
