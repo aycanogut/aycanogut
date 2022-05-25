@@ -56,7 +56,7 @@ I've been working to improve myself in the software development field for the pa
     
 <h3 align="left">Latest Blog Posts:</h3>
 
-* #### [Module Pattern (Learning Patterns)]([https://aycanogut.medium.com/container-presentational-pattern-learning-patterns-5e8f9c4b1ce3](https://aycanogut.medium.com/module-pattern-39a746287f5e))
+* #### [Module Pattern (Learning Patterns)](https://aycanogut.medium.com/module-pattern-39a746287f5e)
 * #### [Container/ Presentational Pattern (Learning Patterns)](https://aycanogut.medium.com/container-presentational-pattern-learning-patterns-5e8f9c4b1ce3)
 * #### [three.js ve React Three Fiber ile 3 Boyutlu Web Animasyonları](https://medium.com/p/d1c1c17f2769)
 * #### [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
