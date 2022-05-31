@@ -56,8 +56,8 @@ I've been working to improve myself in the software development field for the pa
 <img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />  
 <br />
     
-<a href="https://app.daily.dev/bleedeleventh"><img src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="300" alt="Aycan Ogut's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/bleedeleventh"><img src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="300" alt="Aycan Ogut's Dev Card"/></a>
+ -->
 
     
 <h3 align="left">Latest Blog Posts:</h3>
