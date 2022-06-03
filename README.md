@@ -9,7 +9,7 @@ I've been working to improve myself in the software development field for the pa
 
 - 🌱 <b> I’m currently learning **React and TypeScript.**</b>
 
-- 💅🏻 <b> I’m currently working on **my portfolio website.**</b>
+- 💅🏻 <b> I’m currently working on **[my portfolio website](https://www.github.com/aycanogut/portfolio-next).**</b>
  
 - 📝 <b> I write articles on [my blog.](https://medium.com/@aycanogut)</b>
 
