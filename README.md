@@ -52,13 +52,13 @@ I've been working to improve myself in the software development field for the pa
 <br/><br/>
 <!-- 
 <h3 align="left">My Dev Statistics: </h3>
-
+<!-- 
 <p>  
-<!-- GitHub Stats -->  
+<!-- GitHub Stats <!-- 
 <img height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=darcula&show_icons=true&hide_border=true" />
 <img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />  
 <br />
-     -->  
+    
 <!-- <a href="https://app.daily.dev/bleedeleventh"><img src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="300" alt="Aycan Ogut's Dev Card"/></a>
  -->
 
