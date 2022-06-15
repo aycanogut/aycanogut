@@ -50,11 +50,12 @@ I've been working to improve myself in the software development field for the pa
 <img align="left" alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />  
 <br/><br/>
-<!-- 
+
 <h3 align="left">My Dev Statistics: </h3>
-<!-- 
+
 <p>  
-<!-- GitHub Stats <!-- 
+<!-- GitHub Stats <!-->
+
 <img height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=darcula&show_icons=true&hide_border=true" />
 <img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />  
 <br />
