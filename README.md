@@ -65,6 +65,6 @@ I've been working to improve myself in the software development field for the pa
 
 <h3 align="left">Latest Blog Posts:</h3>
 
+- #### [Stil Kılavuzları, Tasarım Sistemleri ve Bileşen Kütüphaneleri Hakkında Bildiğim Her Şey](https://aycanogut.medium.com/stil-k%C4%B1lavuzlar%C4%B1-tasar%C4%B1m-sistemleri-ve-bile%C5%9Fen-k%C3%BCt%C3%BCphaneleri-hakk%C4%B1nda-bildi%C4%9Fim-her-%C5%9Fey-67ff8cbf2ab0)
 - #### [Front-End Geliştirme Araçları #2](https://medium.com/p/f5d577d51411)
-- #### [Container/ Presentational Pattern (Learning Patterns)](https://aycanogut.medium.com/container-presentational-pattern-learning-patterns-5e8f9c4b1ce3)
 - #### [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
