@@ -42,7 +42,7 @@ I've been working to improve myself in the software development field for the pa
 <img align="left" alt="Styled Components" width="30px" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
 <img align="left" alt="Tailwind" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 <img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Mantine" width="30px" src="https://avatars.githubusercontent.com/u/79146003?v=4&s=160" />
+<img align="left" alt="Mantine" width="30px" src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" />
 <img align="left" alt="Directus" width="30px" src="https://ia601808.us.archive.org/18/items/github.com-directus-directus_-_2021-01-27_23-35-33/cover.jpg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
