@@ -7,7 +7,7 @@ I've been working to improve myself in the software development field for the pa
 
 <br>
 
-- 🌱 <b> I’m currently learning **React and TypeScript.**</b>
+- 🌱 <b> I’m currently learning **Next.js.**</b>
 
 - 💅🏻 <b> I’m currently working on **[my portfolio website](https://www.github.com/aycanogut/portfolio-next).**</b>
 
