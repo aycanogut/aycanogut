@@ -39,6 +39,7 @@ I've been working to improve myself in the software development field for the pa
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" />
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Next" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" />
 <img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" alt="Styled Components" width="30px" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
 <img align="left" alt="Tailwind" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
@@ -50,6 +51,7 @@ I've been working to improve myself in the software development field for the pa
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />  
+<img align="left" alt="Raycast" src="https://www.gitbook.com/cdn-cgi/image/width=30,height=30/https%3A%2F%2F1128831940-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Me_8A39tFhZg3UaVoSN%252Ficon%252FlR4snyuIg0uph7D7LQcq%252Ffavicon.7b22250.628b74797b5186d6caec6476f06179e0.png%3Falt%3Dmedia%26token%3D33a97349-fd51-4327-a37a-fc4699716cfa" />  
 <br/><br/>
 
 <h3 align="left">My Dev Statistics: </h3>
