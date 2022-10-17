@@ -32,6 +32,7 @@ I've been working to improve myself in the software development field for the pa
 <a href="https://codepen.io/aycanogutt" target="blank"><img align="left" alt="CodePen" width="30px" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg"/></a>
 <br/><br/>
 
+<!-- 
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -52,7 +53,7 @@ I've been working to improve myself in the software development field for the pa
 <img align="left" alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
 <img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />  
 <img align="left" alt="Raycast" src="https://www.gitbook.com/cdn-cgi/image/width=30,height=30/https%3A%2F%2F1128831940-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Me_8A39tFhZg3UaVoSN%252Ficon%252FlR4snyuIg0uph7D7LQcq%252Ffavicon.7b22250.628b74797b5186d6caec6476f06179e0.png%3Falt%3Dmedia%26token%3D33a97349-fd51-4327-a37a-fc4699716cfa" />  
-<br/><br/>
+<br/><br/> !-->
 
 <h3 align="left">My Dev Statistics: </h3>
 
