@@ -12,8 +12,8 @@ Currently, I'm working at <a href="https://www.oplog.io" target="_blank"><strong
 <h4 align="left">
 More details <a href="https://read.cv/aycanogut" target="_blank">here.</a>
 </h4>
+<hr>
 
-<br>
 
 - 🌱 <b> I’m currently learning **Next.js.**</b>
 
