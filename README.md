@@ -3,11 +3,15 @@
     
 <h4 align="left">
 I'm a self-taught developer with about a year of industry experience. I enjoy learning about new technologies and tools, writing articles, and working on open source projects.
+</h4>
 
+<h4 align="left">
 Currently, I'm working at <a href="https://www.oplog.io" target="_blank"><strong>OPLOG</strong></a> as a front-end developer.
+</h4>
 
+<h4 align="left">
 More details <a href="https://read.cv/aycanogut" target="_blank">here.</a>
-</h3>
+</h4>
 
 <br>
 
