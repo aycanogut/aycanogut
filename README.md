@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Aycan</h1>
-<h3 align="left">I’m a junior front-end developer based in Izmir, Turkey.</h3>
+<h1 align="left">Hello 🤙</h1>
+<h3 align="left">Aycan Öğüt. 1989, Izmir.</h3>
     
-<h3 align="left">
-I've been working to improve myself in the software development field for the past year. I have a passion for learning new concepts and technologies. My motivation is to grow as a person by learning new skills and using what I've learned to solve problems, help others and contribute to the community. 
+<h4 align="left">
+I'm a self-taught developer with about a year of industry experience. I enjoy learning about new technologies and tools, writing articles, and working on open source projects.
+
+Currently, I'm working at <a href="https://www.oplog.io" target="_blank"><strong>OPLOG</strong></a> as a front-end developer.
+
+More details <a href="https://read.cv/aycanogut" target="_blank">here.</a>
 </h3>
 
 <br>
