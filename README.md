@@ -65,13 +65,14 @@
 
 <!-- Statics -->
 
-<details>
+<details> 
   <summary>Dev Statistics</summary>
 
   <img style="margin-bottom:4px;" height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=dark&show_icons=true&hide_border=true" />
   <img style="margin-bottom:4px;" height="132em"  src="https://github-readme-streak-stats.herokuapp.com?user=aycanogut&theme=dark&hide_border=true" alt="aycanogut" />
-  <img style="margin-bottom:8px;" height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut&layout=compact" />
-
+  <br />
+  <img style="margin-bottom:8px;" height="320em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut&layout=compact" />
+  <br />
   <img  src="https://komarev.com/ghpvc/?username=aycanogut&color=lightgray" alt="aycanogut" />
-
+  <br />
 </details>
