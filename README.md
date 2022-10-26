@@ -1,82 +1,77 @@
-<h1 align="left">Hello 🤙</h1>
-<h3 align="left">Aycan Öğüt. 1989, Izmir.</h3>
-    
-<h4 align="left">
-I'm a self-taught developer with about a year of industry experience. I enjoy learning about new technologies and tools, writing articles, and working on open source projects.
-</h4>
+<!-- Introduction -->
 
-<h4 align="left">
-Currently, I'm working at <a href="https://www.oplog.io" target="_blank"><strong>OPLOG</strong></a> as a front-end developer.
-</h4>
+## Hello 🤙
 
-<h4 align="left">
-More details <a href="https://read.cv/aycanogut" target="_blank">here.</a>
-</h4>
-<hr>
+#### Aycan Öğüt. 1989, Izmir.
 
+#### I'm a self-taught developer with about a year of industry experience. I enjoy learning about new technologies and tools, writing articles, and working on open source projects.
 
-- 🌱 <b> I’m currently learning **Next.js.**</b>
+#### Currently, I'm working at [**OPLOG**](https://www.oplog.io) as a front-end developer.
 
-- 💅🏻 <b> I’m currently working on **[my portfolio website](https://www.github.com/aycanogut/portfolio-next).**</b>
+#### More details [**here.**](https://read.cv/aycanogut)
 
-- 📝 <b> I write articles on [my blog.](https://medium.com/@aycanogut)</b>
+<!-- Information -->
 
-<br>
+- 🌱 I’m currently learning **Next.js.**
 
-![](https://komarev.com/ghpvc/?username=aycanogut&color=lightgray)
+- 💅🏻 I’m currently working on [**my portfolio website**](https://www.github.com/aycanogut/portfolio-next).
 
-<hr>
+- 📝 I write articles on [**my blog**.](https://medium.com/@aycanogut)
 
-<h3 align="left">Connect with me:</h3>
+<!-- Online Presence -->
 
-<a href="https://linkedin.com/in/aycanogut" target="blank"><img align="left" alt="LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
-<a href="https://medium.com/@aycanogut" target="blank"><img align="left" alt="Medium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"/>
-<a href="https://twitter.com/bleedeleventh" target="blank"><img align="left" alt="Twitter" width="30px" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png"/></a>
-<a href="https://www.hackerrank.com/aycanogut" target="blank"><img align="left" alt="HackerRank" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"/></a>
-<a href="https://www.codewars.com/users/aycanogut" target="blank"><img align="left" alt="CodeWars" width="30px" src="https://docs.codewars.com/logo.svg"/></a>
-<a href="https://www.frontendmentor.io/profile/aycanogut" target="blank"><img align="left" alt="FrontendMentor" width="30px" src="https://pbs.twimg.com/profile_images/1047378912819531776/jg7V1u54_400x400.jpg"/></a>
-<a href="https://dev.to/bleedeleventh" target="blank"><img align="left" alt="Dev.to" width="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"/></a>
-<a href="https://cssbattle.dev/player/aycanogut" target="blank"><img align="left" alt="CSSBattle" width="30px" src="https://ph-files.imgix.net/a8693137-6248-4845-b414-a8e348878ed1.png?auto=format"/></a>
-<a href="https://codepen.io/aycanogutt" target="blank"><img align="left" alt="CodePen" width="30px" src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg"/></a>
-<br/><br/>
+<!-- Contact -->
 
-<!-- 
-<h3 align="left">Languages and Tools:</h3>
+### Contact with
 
-<img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" />
-<img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" />
-<img align="left" alt="Sass" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="Styled Components" width="30px" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
-<img align="left" alt="Tailwind" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-<img align="left" alt="Mantine" width="30px" src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" />
-<img align="left" alt="Directus" width="30px" src="https://ia601808.us.archive.org/18/items/github.com-directus-directus_-_2021-01-27_23-35-33/cover.jpg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="Adobe Photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />
-<img align="left" alt="Figma" width="30px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />  
-<img align="left" alt="Raycast" src="https://www.gitbook.com/cdn-cgi/image/width=30,height=30/https%3A%2F%2F1128831940-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-Me_8A39tFhZg3UaVoSN%252Ficon%252FlR4snyuIg0uph7D7LQcq%252Ffavicon.7b22250.628b74797b5186d6caec6476f06179e0.png%3Falt%3Dmedia%26token%3D33a97349-fd51-4327-a37a-fc4699716cfa" />  
-<br/><br/> !-->
+<a href="https://linkedin.com/in/aycanogut" target="blank"><img style="margin-right: 10px;"  align="left" alt="LinkedIn" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
+<a href="https://dev.to/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"/></a>
+<a href="https://medium.com/@aycanogut" target="blank"><img style="margin-right: 10px;" align="left" alt="Medium" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"/>
+<a href="https://twitter.com/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Twitter" width="30" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png"/></a>
+<a href="https://dev.to/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
 
-<h3 align="left">My Dev Statistics: </h3>
-
-<p>  
-<!-- GitHub Stats <!-->
-
-<img height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=darcula&show_icons=true&hide_border=true" />
-<img height="132em"  src="https://github-readme-streak-stats.herokuapp.com/?user=aycanogut&theme=darcula" alt="aycanogut" />  
 <br />
     
-<!-- <a href="https://app.daily.dev/bleedeleventh"><img src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="300" alt="Aycan Ogut's Dev Card"/></a>
- -->
+<!--   Tech Stack   -->
 
-<h3 align="left">Latest Blog Posts:</h3>
+### Languages and Tools
 
-- #### [React Hooks Pattern](https://aycanogut.medium.com/react-hooks-pattern-8d2ba7fc1cb)
-- #### [Stil Kılavuzları, Tasarım Sistemleri ve Bileşen Kütüphaneleri Hakkında Bildiğim Her Şey](https://aycanogut.medium.com/stil-k%C4%B1lavuzlar%C4%B1-tasar%C4%B1m-sistemleri-ve-bile%C5%9Fen-k%C3%BCt%C3%BCphaneleri-hakk%C4%B1nda-bildi%C4%9Fim-her-%C5%9Fey-67ff8cbf2ab0)
-- #### [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
+<img align="left" style="margin-right:10px" alt="HTML5" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" style="margin-right:10px" alt="CSS3" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" style="margin-right:10px" alt="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" style="margin-right:10px" alt="TypeScript" width="30" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/typescript/typescript.png" />
+<img align="left" style="margin-right:10px" alt="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" style="margin-right:10px" alt="Next" width="30" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" />
+<img align="left" style="margin-right:10px" alt="Sass" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" style="margin-right:10px" alt="Styled Components" width="30" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
+<img align="left" style="margin-right:10px" alt="Tailwind" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
+<img align="left" style="margin-right:10px" alt="Mantine" width="30" src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" />
+
+<br />
+
+<!-- Blog posts -->
+
+ <br />
+
+### Latest Blog Posts
+
+- [React Hooks Pattern](https://aycanogut.medium.com/react-hooks-pattern-8d2ba7fc1cb)
+- [Stil Kılavuzları, Tasarım Sistemleri ve Bileşen Kütüphaneleri Hakkında Bildiğim Her Şey](https://aycanogut.medium.com/stil-k%C4%B1lavuzlar%C4%B1-tasar%C4%B1m-sistemleri-ve-bile%C5%9Fen-k%C3%BCt%C3%BCphaneleri-hakk%C4%B1nda-bildi%C4%9Fim-her-%C5%9Fey-67ff8cbf2ab0)
+- [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
+
+<br />
+
+<!-- Tech stack -->
+
+<!-- Statics -->
+
+<details>
+  <summary>Dev Statistics</summary>
+
+  <img style="margin-bottom:4px;" height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=dark&show_icons=true&hide_border=true" />
+  <img style="margin-bottom:4px;" height="132em"  src="https://github-readme-streak-stats.herokuapp.com?user=aycanogut&theme=dark&hide_border=true" alt="aycanogut" />
+  <img style="margin-bottom:8px;" height="280em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut&layout=compact" />
+
+  <img  src="https://komarev.com/ghpvc/?username=aycanogut&color=lightgray" alt="aycanogut" />
+
+</details>
