@@ -2,22 +2,19 @@
 
 ## Hello 🤙
 
-#### Aycan Öğüt. 1989, Izmir.
+#### Aycan Öğüt. 1989.
 
-#### I'm a self-taught developer with about a year of industry experience. I enjoy learning about new technologies and tools, writing articles, and working on open source projects.
+#### I'm a self-taught developer from Izmir.
+
+#### I've been working to improve myself in web development field since 2020 with a focus on responsive design and JavaScript. I enjoy learning new technologies and tools, [**writing articles**.](https://medium.com/@aycanogut), and working on open source projects.
 
 #### Currently, I'm working at [**OPLOG**](https://www.oplog.io) as a front-end developer.
 
-#### More details [**here.**](https://read.cv/aycanogut)
+#### Along with pixel hunting, I enjoy skating, going to live music events, playing video games, watching TV series, and hanging out with my friends.
 
-<!-- Information -->
+#### Find out more about me [by visiting this page](https://read.cv/aycanogut).  
 
-- 🌱 I’m currently learning **Next.js.**
-
-- 💅🏻 I’m currently working on [**my portfolio website**](https://www.github.com/aycanogut/portfolio-next).
-
-- 📝 I write articles on [**my blog**.](https://medium.com/@aycanogut)
-
+<br />
 <!-- Online Presence -->
 
 <!-- Contact -->
@@ -33,7 +30,8 @@
 <br />
     
 <!--   Tech Stack   -->
-
+<br />
+    
 ### Languages and Tools
 
 <img align="left" style="margin-right:10px" alt="HTML5" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
