@@ -2,17 +2,13 @@
 
 ## Hello 🤙
 
-#### Aycan Öğüt. 1989.
-
 #### I'm a self-taught developer from Izmir.
 
 #### I've been working to improve myself in web development field since 2020 with a focus on responsive design and JavaScript. I enjoy learning new technologies and tools, [**writing articles**.](https://medium.com/@aycanogut), and working on open source projects.
 
 #### Currently, I'm working at [**OPLOG**](https://www.oplog.io) as a front-end developer.
 
-#### Along with pixel hunting, I enjoy skating, going to live music events, playing video games, watching TV series, and hanging out with my friends.
-
-#### Find out more about me [by visiting this page](https://read.cv/aycanogut).  
+#### Find out more [more](https://read.cv/aycanogut).  
 
 <br />
 <!-- Online Presence -->
