@@ -8,7 +8,7 @@
 
 #### Currently, I'm working at [**OPLOG**](https://www.oplog.io) as a front-end developer.
 
-#### Find out more [more](https://read.cv/aycanogut).  
+#### Find out [more](https://read.cv/aycanogut).  
 
 <br />
 <!-- Online Presence -->
