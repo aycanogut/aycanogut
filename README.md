@@ -4,7 +4,7 @@
 
 #### I'm a self-taught developer from Izmir.
 
-#### I've been working to improve myself in web development field since 2020 with a focus on responsive design and JavaScript. I enjoy learning new technologies and tools, [**writing articles**.](https://medium.com/@aycanogut), and working on open source projects.
+#### I've been working to improve myself in web development field since 2020 with a focus on responsive web applications. I enjoy learning new technologies and tools, [**writing articles**.](https://medium.com/@aycanogut), and working on open source projects.
 
 #### Currently, I'm working at [**OPLOG**](https://www.oplog.io) as a front-end developer.
 
