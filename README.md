@@ -62,11 +62,11 @@
 <details> 
   <summary>Dev Statistics</summary>
 
-  <img style="margin-bottom:4px;" height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=dark&show_icons=true&hide_border=true" />
+<!--   <img style="margin-bottom:4px;" height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=dark&show_icons=true&hide_border=true" /> -->
   <img style="margin-bottom:4px;" height="132em"  src="https://github-readme-streak-stats.herokuapp.com?user=aycanogut&theme=dark&hide_border=true" alt="aycanogut" />
   <br />
   <img style="margin-bottom:8px;" height="350em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut&layout=compact" />
-  <img width="auto" height="350em" src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="400" alt="Aycan Ogut's Dev Card"/>
+<!--   <img width="auto" height="350em" src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="400" alt="Aycan Ogut's Dev Card"/> -->
   <br />
   <img  src="https://komarev.com/ghpvc/?username=aycanogut&color=lightgray" alt="aycanogut" />
   <br />
