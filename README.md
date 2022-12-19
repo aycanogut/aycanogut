@@ -49,6 +49,8 @@
 
 ### Latest Blog Posts
 
+
+- [JavaScript Rendering Patterns](https://aycanogut.medium.com/javascript-rendering-patterns-a7507e197f65)
 - [React Hooks Pattern](https://aycanogut.medium.com/react-hooks-pattern-8d2ba7fc1cb)
 - [Stil Kılavuzları, Tasarım Sistemleri ve Bileşen Kütüphaneleri Hakkında Bildiğim Her Şey](https://aycanogut.medium.com/stil-k%C4%B1lavuzlar%C4%B1-tasar%C4%B1m-sistemleri-ve-bile%C5%9Fen-k%C3%BCt%C3%BCphaneleri-hakk%C4%B1nda-bildi%C4%9Fim-her-%C5%9Fey-67ff8cbf2ab0)
 - [JavaScript’i kim geliştiriyor?](https://medium.com/kodluyoruz/javascripti-kim-geli%C5%9Ftiriyor-4f3bee2b2a15)
