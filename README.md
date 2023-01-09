@@ -70,6 +70,8 @@
   <img style="margin-bottom:8px;" height="350em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut&layout=compact" />
 <!--   <img width="auto" height="350em" src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="400" alt="Aycan Ogut's Dev Card"/> -->
   <br />
+  <a href="https://wakatime.com/@f07022db-11db-4286-bb9e-c1bb9cd4d062"><img src="https://wakatime.com/badge/user/f07022db-11db-4286-bb9e-c1bb9cd4d062.svg" alt="Total time coded since Jul 25 2021" /></a>  
+  <br />
   <img  src="https://komarev.com/ghpvc/?username=aycanogut&color=lightgray" alt="aycanogut" />
   <br />
 </details>
