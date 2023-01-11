@@ -21,7 +21,7 @@
 <a href="https://medium.com/@aycanogut" target="blank"><img style="margin-right: 10px;" align="left" alt="Medium" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"/>
 <a href="https://twitter.com/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Twitter" width="30" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png"/></a>
 <a href="https://dev.to/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"/></a>
-<a href="mailto:aycanonfire@gmail.com" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
+<a href="mailto:me@aycan.dev" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
 
 <br />
     
