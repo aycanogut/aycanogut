@@ -6,7 +6,7 @@
 
 #### I've been working to improve myself in web development field since 2020 with a focus on responsive web applications. I enjoy learning new technologies and tools, [**writing articles**](https://medium.com/@aycanogut), and working on open source projects.
 
-#### Currently, I'm working at [**OPLOG**](https://www.oplog.io) as a front-end developer.
+#### Currently, I'm available to work in a remote environment.
 
 #### Find out [more](https://read.cv/aycanogut).  
 
