@@ -6,7 +6,7 @@
 
 #### I've been working to improve myself in web development field since 2020 with a focus on responsive web applications. I enjoy learning new technologies and tools, [**writing articles**](https://medium.com/@aycanogut), and working on open source projects.
 
-#### Currently, I'm available to work in a remote environment.
+#### Currently, I'm working as a frontend developer at [90Pixel](https://90pixel.com).
 
 #### Find out [more](https://read.cv/aycanogut).  
 
