@@ -39,7 +39,6 @@
 <img align="left" style="margin-right:10px" alt="Sass" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 <img align="left" style="margin-right:10px" alt="Styled Components" width="30" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" />
 <img align="left" style="margin-right:10px" alt="Tailwind" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
-<img align="left" style="margin-right:10px" alt="Mantine" width="30" src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" />
 
 <br />
 
