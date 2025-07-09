@@ -40,6 +40,7 @@
 <img align="left" style="margin-right:10px" alt="Tailwind" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 <img align="left" style="margin-right:10px" alt="Motion" width="30" src="https://user-images.githubusercontent.com/7850794/164965509-2a8dc49e-2ed7-4243-a2c9-481b03bbc31a.png" />
 <img align="left" style="margin-right:10px" alt="Radix UI" width="30" src="https://avatars.githubusercontent.com/u/75042455?s=280&v=4" />
+<img align="left" style="margin-right:10px" alt="PayloadCMS" width="30" src="https://payloadcms.com/apple-icon.png?ecf0fe126546bd55" />
 
 
 
