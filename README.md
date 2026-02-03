@@ -10,17 +10,11 @@
 
 #### Find out [more](https://read.cv/aycanogut).  
 
-<br />
-<!-- Online Presence -->
-
 <!-- Contact -->
 
 ### Contact with
 
 <a href="https://linkedin.com/in/aycanogut" target="blank"><img style="margin-right: 10px;"  align="left" alt="LinkedIn" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
-<a href="https://medium.com/@aycanogut" target="blank"><img style="margin-right: 10px;" align="left" alt="Medium" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/195px-Medium_logo_Monogram.svg.png"/>
-<a href="https://twitter.com/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Twitter" width="30" src="https://www.iics.k12.tr/wp-content/uploads/2019/07/twitter-logo-png-twitter-logo.png"/></a>
-<a href="https://dev.to/bleedeleventh" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png"/></a>
 <a href="mailto:me@aycan.dev" target="blank"><img style="margin-right: 10px;" align="left" alt="Dev.to" width="30" src="https://www.pngrepo.com/png/243092/512/gmail.png"/></a>
 
 <br />
@@ -64,18 +58,6 @@
 
 <!-- Statics -->
 
-<details> 
-  <summary>Dev Statistics</summary>
-
-  <img style="margin-bottom:4px;" height="132em" src="https://github-readme-stats.vercel.app/api?username=aycanogut&&theme=dark&show_icons=true&hide_border=true" />
-  <img style="margin-bottom:4px;" height="132em"  src="https://github-readme-streak-stats.herokuapp.com?user=aycanogut&theme=dark&hide_border=true" alt="aycanogut" />
-  <br />
-  <img style="margin-bottom:8px;" height="350em" src="https://github-readme-stats.vercel.app/api/wakatime?username=aycanogut&layout=compact" />
-<!--   <img width="auto" height="350em" src="https://github.com/aycanogut/aycanogut/blob/main/devcard.svg" width="400" alt="Aycan Ogut's Dev Card"/> -->
-  <br />
   <a href="https://wakatime.com/@f07022db-11db-4286-bb9e-c1bb9cd4d062"><img src="https://wakatime.com/badge/user/f07022db-11db-4286-bb9e-c1bb9cd4d062.svg" alt="Total time coded since Jul 25 2021" /></a>  
-  <br />
   <img  src="https://komarev.com/ghpvc/?username=aycanogut&color=lightgray" alt="aycanogut" />
-  <br />
-</details>
 
