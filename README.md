@@ -3,7 +3,7 @@
 ## Hello 🤙
 
 
-#### Frontend developer from İzmir, with 4+ years of professional experience building production-grade web applications.
+#### I'm a frontend developer from İzmir, with 4+ years of professional experience building production-grade web applications.
 #### I focus on the things that make an app genuinely good: usability, accessibility, UI/UX consistency, and pixel-perfect execution. Beyond the visual layer, I've been integrating agentic engineering into my development workflow — rethinking how modern apps are built and maintained.
 
 #### Currently, I'm working as a frontend developer at [90Pixel](https://90pixel.com).
